@@ -58,9 +58,9 @@ Actions being performed in the **post endpoint**:
 ### React-router Routes:
 1. Layout (inside the /client/src/components folder); 
 2. Home (inside the /client/src/pages folder);
-3. ProductList (inside the pages /client/src/pages folder);
-4. Product (inside the pages /client/src/pages folder);
-5. Checkout (inside the pages /client/src/pages folder).
+3. ProductList (inside the /client/src/pages folder);
+4. Product (inside the /client/src/pages folder);
+5. Checkout (inside the /client/src/pages folder).
 
 ### Componentes (inside the /client/src/components folder):
 1. Layout; *for setting the navbar, footer and ancoring the drawer for the shopping cart*
