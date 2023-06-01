@@ -67,7 +67,7 @@ export const Checkout = ({ cart, onSuccess }) => {
       setActiveStep(activeStep + 1);
     } catch (err) {
       console.log(err);
-      // set error
+      // todo set error
     }
   };
 
