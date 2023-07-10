@@ -16,13 +16,13 @@ export function Home() {
         backgroundSize: "cover",
         backgroundRepeat: "no-repeat",
         backgroundPosition: "center",
-        backgroundImage: `url("/images/home.png")`,
+        backgroundImage: `url("./public/images/home.png")`,
         display: "flex",
         alignItems: "center",
         height: 750,
       }}
     >
-      <img style={{ display: "none" }} src="/images/home.png" />
+      <img style={{ display: "none" }} src="./public/images/home.png" />
       <Grid container sx={{ justifyContent: "center", textAlign: "center" }}>
         <Box
           sx={{
